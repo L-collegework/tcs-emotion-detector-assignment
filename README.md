@@ -55,21 +55,6 @@ tcs-emotion-detector/
 └── README.md                       # Project documentation
 ```
 
----
-
-## How to Run Locally
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/tcs-emotion-detector.git
-cd tcs-emotion-detector
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-streamlit run app.py
-```
 
 
 ---
